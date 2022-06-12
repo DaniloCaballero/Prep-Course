@@ -1,0 +1,4 @@
+git close https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+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
